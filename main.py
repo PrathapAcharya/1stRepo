@@ -1,3 +1,3 @@
 a = "Hello World"
-print(a)
-git add git
+b= "Good Afternoon"
+print(a ,b)
