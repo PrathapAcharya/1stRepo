@@ -1,3 +1,4 @@
 a = "Hello World"
 b= "Good Afternoon"
-print(a ,b)
+c= "MCA "
+print(a ,b,c)
